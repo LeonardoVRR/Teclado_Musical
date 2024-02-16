@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Manipulando audio JS</title>
+</head>
+<body>
+    <div class="keysContainer">
+        <div class="keysContainer__apresentation">
+            <h1>Teclado de Efeitos sonoros</h1>
+            <p>Pressione as seguintes teclas abaixo para ouvir um audio</p>
+        </div>
+        <div class="keysContainer_audios">
+            <div class="keysContainer__key" data-key="65"><kbd>A</kbd><span class="sound">Audio 1</span></div>
+            <div class="keysContainer__key" data-key="83"><kbd>S</kbd><span class="sound">Audio 2</span></div>
+            <div class="keysContainer__key" data-key="68"><kbd>D</kbd><span class="sound">Audio 3</span></div>
+            <div class="keysContainer__key" data-key="70"><kbd>F</kbd><span class="sound">Audio 4</span></div>
+            <div class="keysContainer__key" data-key="71"><kbd>G</kbd><span class="sound">Audio 5</span></div>
+            <div class="keysContainer__key" data-key="72"><kbd>H</kbd><span class="sound">Audio 6</span></div>
+            <div class="keysContainer__key" data-key="74"><kbd>J</kbd><span class="sound">Audio 7</span></div>
+            <div class="keysContainer__key" data-key="75"><kbd>K</kbd><span class="sound">Audio 8</span></div>
+            <div class="keysContainer__key" data-key="76"><kbd>L</kbd><span class="sound">Audio 9</span></div>
+            <div class="keysContainer__key" data-key="186"><kbd>Ç</kbd><span class="sound">Audio 10</span></div>
+        </div>
+    </div>
+
+    <audio src="Sounds/Bomber (Sting) - Riot.mp3" data-key="65"></audio>
+    <audio src="Sounds/Country Fried (Sting) - Josh Kirsch_Media Right Productions.mp3" data-key="83"></audio>
+    <audio src="Sounds/Dead Reckoning (Sting) - Ethan Meixsell.mp3" data-key="68"></audio>
+    <audio src="Sounds/Demilitarized Zone (Sting) - Ethan Meixsell.mp3" data-key="70"></audio>
+    <audio src="Sounds/Donations (Sting) - Riot.mp3" data-key="71"></audio>
+    <audio src="Sounds/Double Helix (Sting) - Ethan Meixsell.mp3" data-key="72"></audio>
+    <audio src="Sounds/Granite (Sting) - Ethan Meixsell.mp3" data-key="74"></audio>
+    <audio src="Sounds/Leslie's Strut (Sting) - John Deley and the 41 Players.mp3" data-key="75"></audio>
+    <audio src="Sounds/Takeoff (Sting) - Ethan Meixsell.mp3" data-key="76"></audio>
+    <audio src="Sounds/Thor's Hammer (Sting) - Ethan Meixsell.mp3" data-key="186"></audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
