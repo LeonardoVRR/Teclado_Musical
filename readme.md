@@ -19,6 +19,7 @@ projeto feito com o intuito de dar os primeiros passos com à manipulação de e
 não é necessário nenhum pré-requisito é só acessar o projeto pelo link disponibilizado em [Acesso ao Projeto](#acesso-ao-projeto) e utilizá-lo.
 
 ## Resultado final do projeto
+![Captura de tela 2024-03-13 092904](https://github.com/LeonardoVRR/Teclado_Musical/assets/102774822/143746b9-9efe-435a-8746-8010251eed14)
 
 ## Possiveis problemas
 o projeto foi testado apenas no navegador Google Chrome, então pode ser possivel que alguns recursos não tenham compatibilidade com outros navegadores.
