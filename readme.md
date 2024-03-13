@@ -16,7 +16,7 @@
 projeto feito com o intuito de dar os primeiros passos com à manipulação de elementos do DOM, ele reproduz sons diferentes para cada tecla que está sendo mostrada na tela.
 
 ## Pré-requisitos
-não é necessário nenhum pré-requisito é só acessar o projeto pelo link disponibilizado em [Acesso ao Projeto](#acesso-ao-projeto) e utilizá-lo.
+não é necessário nenhum pré-requisito é só acessar o projeto pelo link disponibilizado em [Acesso ao Projeto](#acesso-ao-projeto) e utiliza-lo.
 
 ## Resultado final do projeto
 ![Captura de tela 2024-03-13 092904](https://github.com/LeonardoVRR/Teclado_Musical/assets/102774822/143746b9-9efe-435a-8746-8010251eed14)
