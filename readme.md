@@ -7,7 +7,6 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Pré-requisitos](#pré-requisitos)
 * [Resultado final do projeto](#resultado-final-do-projeto)
-* [Possiveis problemas](#possiveis-problemas)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Licença](#licença)
@@ -19,10 +18,8 @@ projeto feito com o intuito de dar os primeiros passos com à manipulação de e
 não é necessário nenhum pré-requisito é só acessar o projeto pelo link disponibilizado em [Acesso ao Projeto](#acesso-ao-projeto) e utiliza-lo.
 
 ## Resultado final do projeto
-![Captura de tela 2024-03-13 092904](https://github.com/LeonardoVRR/Teclado_Musical/assets/102774822/143746b9-9efe-435a-8746-8010251eed14)
+![demo](https://github.com/user-attachments/assets/a3702292-ac46-48e7-a025-fcb7bf578948)
 
-## Possiveis problemas
-o projeto foi testado apenas no navegador Google Chrome, então pode ser possivel que alguns recursos não tenham compatibilidade com outros navegadores.
 
 ## Acesso ao Projeto
 para acessar o projeto utilize o seguinte link:
